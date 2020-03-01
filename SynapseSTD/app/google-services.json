@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1072354892481",
+    "firebase_url": "https://synapse-d7324.firebaseio.com",
+    "project_id": "synapse-d7324",
+    "storage_bucket": "synapse-d7324.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072354892481:android:7f76d5e825a444136d1240",
+        "android_client_info": {
+          "package_name": "com.example.android.synapse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072354892481-uif38tfqm6c1o8j1p2n61ojnsvei1v22.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.synapse",
+            "certificate_hash": "5f47d5b29aaba2d9a3c8d009a032545724481bab"
+          }
+        },
+        {
+          "client_id": "1072354892481-umqtils8inkfeqb4llifhpge0eiucncs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBK2YEd2lC5gOFwXUtTVXB9N9X5l3IM2Q4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072354892481-umqtils8inkfeqb4llifhpge0eiucncs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
